@@ -20,4 +20,3 @@ line_number);
 
 	pop(stack, line_number);
 }
-
